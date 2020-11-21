@@ -5,7 +5,7 @@
 2. ElGamal
 	通过给予的c(c1, c2), q，a，YA对ciphertext进行解密
 
-具体内容请查阅代码，PDF以及报告文件。
+具体内容请查阅代码，PDF以及报告文件(docx)。
 
 # BTW
 problem 1由于python太慢所以用C实现  
