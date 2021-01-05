@@ -45,4 +45,4 @@
 
 ##### Result
 
-![result](/home/lincx/mydoc/github/information-security-final-project/result.png)
+![result](./result.png)
